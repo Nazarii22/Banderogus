@@ -1,5 +1,5 @@
 # My second work - banderogus
 
 - Html.index
-- css.styles
-- js and img from upload
+- Css.styles
+- Js and img from upload
